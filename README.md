@@ -1,0 +1,1 @@
+This is a sample project to work with React with AWS using AWS Mobile Hub, AWS Amplify and AWS AppSync
